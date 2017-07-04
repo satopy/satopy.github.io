@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>${あなたのハンドルネーム}の自己紹介</title>
+</head>
+<body>
+<img src="./PWRZJzdF_400x400.png" alt="アイコン">
 
-You can use the [editor on GitHub](https://github.com/satopy/satopy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<h1>${あなたのハンドルネーム}</h1>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h3>わたしの情報</h3>
+<table>
+    <tr>
+        <th>年齢</th>
+        <td>${あなたの年齢}</td>
+    </tr>
+    <tr>
+        <th>性別</th>
+        <td>${あなたの性別}</td>
+    </tr>
+    <tr>
+        <th>都道府県</th>
+        <td>${お住まいの都道府県}</td>
+    </tr>
+</table>
 
-### Markdown
+<h3>趣味</h3>
+<ul>
+    <li>${あなたの趣味1}</li>
+    <li>${あなたの趣味2}</li>
+    <li>${あなたの趣味3}</li>
+</ul>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h3>SNS へのリンク集</h3>
+<ul>
+    <li><a href="https://twitter.com/nico_nico_news">Twitter</a></li>
+</ul>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/satopy/satopy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h3>好きな動画</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VkTA7uWN8S4" frameborder="0"
+        allowfullscreen></iframe>
+</body>
+</html>
