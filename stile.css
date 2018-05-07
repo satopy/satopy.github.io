@@ -18,6 +18,14 @@
     font-size: 30px
     
 }
+.situmonbako {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Gaegu', cursive;
+    font-size: 30px;
+    margin-top: 50px; 
+}
 .fa-twitter-square{
     color: #1DA1F2   
 }
@@ -30,6 +38,8 @@
 .fa-line {
     color: #54BD37
 }
+
+
 img {
     border-radius: 30px;
     height: 60px;
