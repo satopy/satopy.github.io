@@ -1,0 +1,127 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* .square_btn{
+    display: inline-block;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    color: #FFF;
+    background-image: -webkit-linear-gradient(#6795fd 0%, #67ceff 100%);
+    background-image: linear-gradient(#6795fd 0%, #67ceff 100%);
+    transition: .4s;
+}
+
+.square_btn:hover{
+    background-image: -webkit-linear-gradient(#6795fd 0%, #67ceff 70%);
+    background-image: linear-gradient(#6795fd 0%, #67ceff 70%);
+} */
+
+.contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Gaegu', cursive;
+    margin-top: 30px; 
+}
+
+.SNS {
+    text-align: center;
+}
+
+.manzi {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px auto;
+    font-family: 'Gaegu', cursive;
+    font-size: 30px
+    
+}
+.situmonbako {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Gaegu', cursive;
+    font-size: 30px;
+    margin-top: 50px; 
+}
+.fa-twitter-square{
+    color: #1DA1F2   
+}
+.fa-github-square{
+    color: #000000
+}
+.fa-facebook-square{
+    color: #4267B2
+}
+.fa-line {
+    color: #54BD37
+}
+
+
+img {
+    border-radius: 30px;
+    height: 60px;
+    width: 60px;
+  }
+.fa-instagram {
+    color: transparent;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    background-clip: text;
+    -webkit-background-clip: text;
+  }
+
+
+
+/*  */
+
+/* .contact-show {
+    margin: 5px;
+    height: 0;
+    padding: 0;
+    overflow: hidden;
+    opacity: 0;
+    transition: 0.8s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px
+} */
+
+/* .hidden_box {
+    margin: 2em 0;
+    padding: 0;
+} */
+/* .contact input {
+    display: none;
+} */
+
+/* .contact input:checked ~ .contact-show {
+    padding: 10px 0;
+    height: auto;
+    opacity: 1;
+} */
+/* .contact label {
+    /display: flex;/
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    font-size: 5px;
+    color: gray; 
+    padding: 10px;
+    font-weight: bold;
+    border: solid 2px gray;
+    cursor :pointer;
+    border-radius: 5px;
+    overflow: hidden ;;
+} */
+a:link { 
+    color: gray;
+    padding: 3px;
+}
+
+/*  */
+
