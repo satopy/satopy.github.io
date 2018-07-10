@@ -95,6 +95,15 @@ img {
     font-family: 'Roboto', sans-serif;
     color: #595959
 }
+.qwer{
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    font-family: 'Roboto', sans-serif;
+    color: #595959
+}
+
 
 /*  */
 
